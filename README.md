@@ -24,7 +24,7 @@ O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.
 ## 🖥 Preview 
 
 
-| Versão Mobile: |Versão Desktop: |
+| Versão  Desktop: |Versão mobile: |
 |----------|----------|
 |![example](https://ik.imagekit.io/ol2yxq4uey/preview_9WT1Wt2Jz_7-Fu12EpX.png)|![example](https://user-images.githubusercontent.com/50463866/89326399-9d26ed80-d660-11ea-923e-c41e7b409a5f.png)|
 
