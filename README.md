@@ -17,7 +17,7 @@
 
 Uma plataforma de estudos online que visa conectar alunos e professores de forma rápida e fácil.
 
-O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.com/episodios/omnistack/1/edicao/2).
+O projeto está sendo desenvolvido na [Next Level Week 2](https://nextlevelweek.com/episodios/discovery/1/edicao/2).
 
 ---
 
